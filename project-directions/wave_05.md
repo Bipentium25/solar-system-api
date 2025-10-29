@@ -11,4 +11,4 @@ As a client, I want to send a request...
 
 I should be able to combine the effects of the two filters in order to filter results by multiple properties at once.
 
-If time allows, consider adding a non-filter query parameter, such as sorting by a specific attribute. Remember that sorting can be done by the database, so try not to sort the results in your application code.
+If time allows, consider adding a non-filter query parameter, such as sorting by a specific attribute. Remember that sorting can be done by the database, so try not to sort the results in your appliplanetion code.

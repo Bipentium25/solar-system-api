@@ -9,7 +9,7 @@ Complete the following requirements, with similar functionality to the Hello Boo
 1. Create a test database with the correct, matching name.
 1. Refactor the `create_app` method to:
    * Check for a configuration flag
-   * Read the correct database location from the appropriate environment variables
+   * Read the correct database loplanetion from the appropriate environment variables
 1. Manually test that our development environment still works.
 1. Create a `tests` folder with the files:
     -  `tests/__init__.py`
@@ -30,7 +30,7 @@ Create test fixtures and unit tests for the following test cases:
 
 ## Code Coverage
 
-Check your code coverage using `pytest-cov`. Review the [code coverage exercise](https://github.com/adaGold/code-coverage-exercise) on how to use `pytest-cov` to generate a code coverage report. We will need to change the directory where the application code is located from `student` to `app`.
+Check your code coverage using `pytest-cov`. Review the [code coverage exercise](https://github.com/adaGold/code-coverage-exercise) on how to use `pytest-cov` to generate a code coverage report. We will need to change the directory where the appliplanetion code is loplaneted from `student` to `app`.
 
 `pytest --cov=app --cov-report html --cov-report term`
 

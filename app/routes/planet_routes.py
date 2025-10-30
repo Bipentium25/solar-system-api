@@ -18,7 +18,7 @@ def create_planet():
     planets_response = dict(
         id=new_planet.id,
         name=new_planet.name,
-        descrtption=new_planet.description,
+        description=new_planet.description,
     )
 
     return planets_response, 201
